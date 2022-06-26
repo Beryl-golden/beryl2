@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: lightcoral;
+    max-width: 500px;
+    border-radius: 10px;
+    align-items: center;
+}
+input{
+    max-width: 500px;
+}
+button{
+    max-width: 500px;
+}
